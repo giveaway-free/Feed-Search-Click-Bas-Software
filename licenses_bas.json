@@ -1,3 +1,10 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "activated_device_uuid": "D1F7BEFC-260A-A672-C929-8A15B992D6AA",
+      "status": "VALID",
+      "expiry_date": "2026-06-14 12:20:00",
+      "user_info": "hpelite boke"
+    }
+  ]
 }
