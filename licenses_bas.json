@@ -23,6 +23,12 @@
       "status": "VALID",
       "expiry_date": "2026-05-19 22:53:00",
       "user_info": "RDP2"
+    },
+    {
+      "activated_device_uuid": "C9EF0D9A-4DDE-4893-8EF1-B5CD86353B75",
+      "status": "VALID",
+      "expiry_date": "2026-05-20 00:35:00",
+      "user_info": "RDP3"
     }
   ]
 }
