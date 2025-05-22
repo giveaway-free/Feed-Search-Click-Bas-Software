@@ -35,6 +35,12 @@
       "status": "VALID",
       "expiry_date": "2027-05-22 22:43:00",
       "user_info": "RDP1"
+    },
+    {
+      "activated_device_uuid": "B16844CD-A1A0-460E-AC50-0E75F3942F96",
+      "status": "VALID",
+      "expiry_date": "2026-05-22 22:50:00",
+      "user_info": "rpd2"
     }
   ]
 }
