@@ -47,6 +47,12 @@
       "status": "VALID",
       "expiry_date": "2027-05-23 16:46:00",
       "user_info": "RDP 3"
+    },
+    {
+      "activated_device_uuid": "EC272BDB-89BA-5B36-F4AA-C3FB4F9971C0",
+      "status": "VALID",
+      "expiry_date": "2027-05-23 21:57:00",
+      "user_info": "RDP4"
     }
   ]
 }
