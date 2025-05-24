@@ -53,6 +53,12 @@
       "status": "VALID",
       "expiry_date": "2027-05-23 21:57:00",
       "user_info": "RDP4"
+    },
+    {
+      "activated_device_uuid": "EC258769-F76F-96AA-D8AF-1C789FE16412",
+      "status": "VALID",
+      "expiry_date": "2027-05-25 01:03:00",
+      "user_info": "rdp5"
     }
   ]
 }
