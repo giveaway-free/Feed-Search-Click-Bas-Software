@@ -71,6 +71,12 @@
       "status": "VALID",
       "expiry_date": "2028-05-27 00:11:00",
       "user_info": "RDP5"
+    },
+    {
+      "activated_device_uuid": "EC29A983-0F86-3C28-B736-21A1B9389B17",
+      "status": "VALID",
+      "expiry_date": "2026-05-27 00:15:00",
+      "user_info": "101"
     }
   ]
 }
