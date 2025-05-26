@@ -77,6 +77,12 @@
       "status": "VALID",
       "expiry_date": "2026-05-27 00:15:00",
       "user_info": "101"
+    },
+    {
+      "activated_device_uuid": "A72DA86B-68B3-4F40-94BE-FC3974CBD155",
+      "status": "VALID",
+      "expiry_date": "2028-12-27 05:47:00",
+      "user_info": "158 RDB"
     }
   ]
 }
