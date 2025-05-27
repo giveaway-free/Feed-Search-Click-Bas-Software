@@ -49,12 +49,6 @@
       "user_info": "RDP 3"
     },
     {
-      "activated_device_uuid": "EC258769-F76F-96AA-D8AF-1C789FE16412",
-      "status": "VALID",
-      "expiry_date": "2027-05-25 01:03:00",
-      "user_info": "rdp5"
-    },
-    {
       "activated_device_uuid": "EC272BDB-89BA-5B36-F4AA-C3FB4F9971C0",
       "status": "VALID",
       "expiry_date": "2026-05-26 12:55:00",
