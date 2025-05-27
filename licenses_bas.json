@@ -71,6 +71,12 @@
       "status": "VALID",
       "expiry_date": "2027-05-27 22:42:00",
       "user_info": "200 RDB"
+    },
+    {
+      "activated_device_uuid": "EC258769-F76F-96AA-D8AF-1C789FE16412",
+      "status": "VALID",
+      "expiry_date": "2026-07-31 23:26:00",
+      "user_info": "RDB 30"
     }
   ]
 }
