@@ -7,12 +7,6 @@
       "user_info": "RDB 203"
     },
     {
-      "activated_device_uuid": "54F7C7D7-925F-4D3A-B69B-7A77C35A2203",
-      "status": "VALID",
-      "expiry_date": "2027-05-23 16:46:00",
-      "user_info": "RDP 3"
-    },
-    {
       "activated_device_uuid": "EC272BDB-89BA-5B36-F4AA-C3FB4F9971C0",
       "status": "VALID",
       "expiry_date": "2026-05-26 12:56:00",
