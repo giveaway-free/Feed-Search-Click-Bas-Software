@@ -29,12 +29,6 @@
       "status": "VALID",
       "expiry_date": "2028-05-28 00:06:00",
       "user_info": "RDB 30"
-    },
-    {
-      "activated_device_uuid": "C3AC6B95-6C81-4615-9D4A-EC1CE4148ABC",
-      "status": "VALID",
-      "expiry_date": "2025-06-26 00:58:00",
-      "user_info": "RDB 99"
     }
   ]
 }
